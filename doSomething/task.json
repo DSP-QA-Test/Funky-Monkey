@@ -1,1 +1,1 @@
-{"title":"Monkey around","name":"doSomething","environmentVariables":["x=1234"],"parameters":["--debug-on"]}
+{"title":"Monkey around","name":"doSomething","environmentVariables":[],"parameters":["--filename /storage/a.out","--filesize 1024"],"id":0}
